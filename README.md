@@ -8,7 +8,7 @@ Project is built with HTML, CSS, JavaScript.
 
 # Reach Bankist Website
 
-You can reach the project here, [Bankisweb](http://127.0.0.1:5500/bankist_website/index.html)
+You can reach the project here, [Bankistweb](https://bankistberenwebsite.netlify.app/)
 
 # Visual of the project
 
